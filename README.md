@@ -1,2 +1,2 @@
 # garnet
-Index the content of online videos. For researchers, clip-chimps, and compilation creators.
+Index the content of online videos. For researchers and compilation creators.
